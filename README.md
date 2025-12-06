@@ -8,8 +8,7 @@
 
 - 🧩 Full Stack Development – PHP, JavaScript, React, PostgreSQL  
 - 📊 Data & Automation – Python, Excel, VBA, reporting  
-- 🤖 Applied AI – using LLMs to solve real problems  
-- 🌱 Impact projects – systems to reduce food waste and improve processes  
+- 🤖 Applied AI – using LLMs to solve real problems    
 
 ---
 
