@@ -25,7 +25,7 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-`Python` · `JavaScript` · `PHP` · `SQL` · `VBA`  
+`Python` · `JavaScript` · `PHP` · `SQL` · `VBA`  · `JAVA`· `C`   
 
 **Web & Mobile:**  
 `React` · `Next.js` · `React Native` · `Expo` · `HTML` · `CSS` · `Bootstrap`  
@@ -34,7 +34,7 @@
 `PostgreSQL` · `MySQL` · `PHP`  
 
 **Data & BI:**  
-`Pandas` · `Excel`  
+`Pandas` · `Excel` · `POWER BI`       
 
 **Tools:**  
 `Git` · `GitHub` · `VS Code` · `Google Colab`  
@@ -50,4 +50,4 @@
 
 ## 📫 Contact
 
-- 📧 **santiago.guti.mora@gmail.com**
+- 📧 **santiago.guti.mora@gmail.com** 5611800029
