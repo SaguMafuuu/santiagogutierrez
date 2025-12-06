@@ -1,5 +1,6 @@
 
  ## Cybernetics and Computer Systems Engineering - La Salle University, Mexico City
+ # 👋 Hi, I'm Santiago Gutiérrez  I like building **full stack apps, automations and data tools**.
 
 ---
 
