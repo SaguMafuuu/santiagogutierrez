@@ -1,9 +1,5 @@
-# 👋 Hi, I'm Santiago Gutiérrez
 
-🎓 Engineering student in **Cybernetics and Computer Systems**  
-💼 **Process Optimization & Forecasting Intern @ Stellantis**  
-🌎 Based in Mexico City  
-💻 I like building **full stack apps, automations and data tools**.
+ ## Cybernetics and Computer Systems Engineering - La Salle University, Mexico City
 
 ---
 
